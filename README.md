@@ -1,2 +1,2 @@
 # Iris-dataset-classification
-Iris dataset classification model using Machine learning.
+Classification is performed on the Iris Dataset using both logistic Regression and Support Vector Machine algorithms and their acuracy is compared.
